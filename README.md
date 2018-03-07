@@ -1,6 +1,6 @@
 # weexDemo  
 技术栈：`weex+Vue2.0+VueRouter+VueX+redux+BUI-Weex`  
-搭建教程：[脚手架](http://wioo.tk/mobile/2017/12/18/weex.html) 
+搭建教程：[脚手架](https://wiootk.github.io/blog/mobile/2017/12/18/weex.html) 
 
 # 项目启动  
 安装依赖：`npm install`  
